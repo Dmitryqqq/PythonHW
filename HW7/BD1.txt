@@ -1,0 +1,1 @@
+[{"name": "python", "surname": "петр", "secondname": "петрович", "telefon": "213213213","points": 10}, {"name": "java", "surname": "иван", "secondname": "коляныч", "telefon": "111222333","points": "454545"}, {"name": "dmity", "surname": "gagin", "secondname": "vovovich", "telefon": "121212"}]
